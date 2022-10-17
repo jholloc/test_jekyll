@@ -1,3 +1,11 @@
+---
+description: hello
+feature_image: "/assets/images/gradient-dark-blue-futuristic-digital-background.jpg"
+feature_text: |
+  ## Universal Data Access (UDA)
+  Easy access of heterogeneous data sources via a common data representation
+---
+
 # UDA
 
 UDA (Universal Data Access) is a client-server infrastructure designed to enable
@@ -61,4 +69,3 @@ Information about developing new plugin functionality can be found
 
 Information about general development of the UDA code can be found
 [here](development.md).
-
