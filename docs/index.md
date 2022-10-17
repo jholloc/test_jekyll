@@ -1,6 +1,6 @@
 ---
 description: hello
-feature_image: "/assets/images/gradient-dark-blue-futuristic-digital-background.jpg"
+feature_image: "assets/images/gradient-dark-blue-futuristic-digital-background.jpg"
 feature_text: |
   ## Universal Data Access (UDA)
   Easy access of heterogeneous data sources via a common data representation

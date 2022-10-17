@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://hollocom.be/test_jekyll'
-baseurl: ''
+baseurl: '/test_jekyll'
 title: 'UDA'
 description: 'UDA documentation'
 permalink: pretty
