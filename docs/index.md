@@ -1,12 +1,11 @@
 ---
+title: UDA
 description: hello
 feature_image: "assets/images/gradient-dark-blue-futuristic-digital-background.jpg"
 feature_text: |
   ## Universal Data Access (UDA)
   Easy access of heterogeneous data sources via a common data representation
 ---
-
-# UDA
 
 UDA (Universal Data Access) is a client-server infrastructure designed to enable
 the reading and passing of heterogeneous data format back to a client in a
@@ -57,15 +56,15 @@ to a remote server.
 ## Installing
 
 Information about installing a UDA client (including the pyuda Python wrapper)
-can be found [here](client_installation.md).
+can be found [here](client_installation).
 
 Information about installing and configuring a UDA server can be found
-[here](server_installation.md).
+[here](server_installation).
 
 ## Development
 
 Information about developing new plugin functionality can be found 
-[here](creating_plugins.md).
+[here](creating_plugins).
 
 Information about general development of the UDA code can be found
-[here](development.md).
+[here](development).
